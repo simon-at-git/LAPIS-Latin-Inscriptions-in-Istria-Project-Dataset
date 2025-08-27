@@ -41,7 +41,7 @@ Please note that the database is work in progress – so, it is far from being c
 * __Database address:__
 	* https://lapis.fhs.unizg.hr:4433/wiki
 * __DOI:__
-	* https://10.5281/zenodo.16962558
+	* https://doi.org/10.5281/zenodo.16962558
 * __License:__
 	* [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
