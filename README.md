@@ -46,8 +46,8 @@ Please note that the database is work in progress – so, it is far from being c
 ## 3. Database description
 The project database is structured as a wiki (using [MediaWiki](https://www.mediawiki.org/) and [Semantic MediaWiki](https://www.semantic-mediawiki.org/)). It catalogues the inscriptions by giving extensive information about their context, form and content. When possible, each inscription is transcribed and translated to Croatian and English. Photos of the inscriptions are placed on their respective pages. Thanks to the geolocations being saved, it is possible to display their positions on a map.
 
-## 4. Documentation files (apart from this file)
+## 4. Documentation files (apart from this file; contained in a separate folder)
 
 1. User guide to the database
 2. Principles of transcription
-3. Research data management plan (in Croatian)Documents related to the wiki database LAPIS, containing early modern Latin stone inscriptions in the churches of southern Istria.
+3. Research data management plan (in Croatian)
